@@ -56,7 +56,9 @@ Key settings:
 # With 3D viewer window
 python car_controller.py
 ```
-<video src="Howtosimulation.mp4" width="80%" controls></video>
+<p align="center">
+  <video src="Howtosimulation.mp4" width="500" muted autoplay loop></video>
+</p>
 
 ---
 
