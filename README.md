@@ -54,11 +54,9 @@ Key settings:
 
 ```bash
 # With 3D viewer window
-python car_controller.py
+Open python file car_controller.py
+Look at Howtosimulation.mp4 to run
 ```
-<p align="center">
-  <video src="Howtosimulation.mp4" width="500" muted autoplay loop></video>
-</p>
 
 ---
 
