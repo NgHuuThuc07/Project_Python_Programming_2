@@ -39,12 +39,14 @@ repeat
         :Turn right;
       endif
     
-    else (No)
-        if (Near the wall??) then (Left)
+    elseif (Near the wall??)
+        if (Yes) then (Left)
           :Go to the right;
         else (Right)
           :Go to the left;
         endif
+    else(No)
+      :Go straight;
     endif
   
 
